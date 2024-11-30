@@ -1,0 +1,230 @@
+Question,Feedback,Predicted_Category
+What is the tuition fee for international students?,1,Admission
+What are the popular courses offered by the university?,1,Other
+How good are the hostel facilities on campus?,1,Campus
+What is the average class size for undergraduate programs?,0,Curriculum
+Are there any scholarship opportunities for international students?,1,Other
+What is the faculty-to-student ratio?,1,Other
+How active are student clubs and organizations?,1,Other
+What is the university's reputation for research?,1,Other
+How strong is the alumni network?,1,Other
+What are the job placement rates for graduates?,1,Internship
+Are there any part-time job opportunities for students?,1,Other
+What is the library's collection like?,1,Campus
+Are there any language courses available for international students?,1,Campus
+How safe is the campus environment?,1,Campus
+What is the university's policy on academic leave?,0,Other
+How accessible are the professors for academic advising?,1,Campus
+What is the university's ranking in national and international rankings?,1,Other
+Are there any opportunities for internships?,1,Internship
+What is the cost of living in the city where the university is located?,1,Other
+How diverse is the student body?,1,Other
+What is the university's policy on academic probation?,0,Other
+What are the extracurricular activities available on campus?,1,Other
+"How is the university's infrastructure, such as classrooms and labs?",1,Other
+What is the process for transferring credits from other institutions?,0,Admission
+Are there any study abroad programs available?,1,Campus
+How supportive is the university's counseling and mental health services?,1,Other
+What is the university's policy on academic dishonesty?,0,Other
+How accessible are the university's facilities for students with disabilities?,1,Campus
+What is the university's policy on religious holidays?,0,Other
+What is the university's commitment to sustainability and environmental initiatives?,1,Other
+How is the university's Wi-Fi connectivity on campus?,1,Campus
+What is the university's policy on attendance?,0,Other
+Are there any opportunities for research assistantships?,1,Internship
+What is the university's policy on grade appeals?,0,Other
+How is the university's administrative staff helpful and efficient?,1,Other
+What is the university's policy on late assignments?,0,Other
+Are there any opportunities for student teaching?,1,Other
+What is the university's policy on academic dismissal?,0,Other
+How is the university's financial aid process?,1,Other
+What is the university's policy on withdrawals from courses?,0,Other
+Are there any opportunities for student government involvement?,1,Other
+What is the university's policy on academic freedom?,0,Other
+How is the university's career services office?,1,Other
+What is the university's policy on academic integrity?,0,Other
+Are there any opportunities for volunteer work?,1,Internship
+What is the university's policy on academic suspension?,0,Other
+How is the university's food service?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for student research?,1,Other
+What is the university's policy on academic standing?,0,Other
+How is the university's campus security?,1,Campus
+What is the university's policy on academic credit?,0,Other
+Are there any opportunities for student leadership positions?,1,Other
+What is the university's policy on academic probation?,0,Other
+How is the university's transportation system?,1,Other
+What is the university's policy on academic dismissal?,0,Other
+Are there any opportunities for student clubs and organizations?,1,Other
+What is the university's policy on academic dishonesty?,0,Other
+How is the university's housing office?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for study abroad programs?,1,Internship
+What is the university's policy on academic standing?,0,Other
+How is the university's athletic program?,1,Other
+What is the university's policy on academic suspension?,0,Other
+Are there any opportunities for student teaching?,1,Other
+What is the university's policy on academic credit?,0,Other
+How is the university's library?,1,Campus
+What is the university's policy on academic probation?,0,Other
+Are there any opportunities for research assistantships?,1,Internship
+What is the university's policy on academic dismissal?,0,Other
+How is the university's financial aid office?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for student government involvement?,1,Other
+What is the university's policy on academic freedom?,0,Other
+How is the university's career services office?,1,Other
+What is the university's policy on academic integrity?,0,Other
+Are there any opportunities for volunteer work?,1,Internship
+What is the university's policy on academic suspension?,0,Other
+How is the university's food service?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for student research?,1,Other
+What is the university's policy on academic standing?,0,Other
+How is the university's campus security?,1,Campus
+What is the university's policy on academic credit?,0,Other
+Are there any opportunities for student leadership positions?,1,Other
+What is the university's policy on academic probation?,0,Other
+How is the university's transportation system?,1,Other
+What is the university's policy on academic dismissal?,0,Other
+Are there any opportunities for student clubs and organizations?,1,Other
+What is the university's policy on academic dishonesty?,0,Other
+How is the university's housing office?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for study abroad programs?,1,Internship
+What is the university's policy on academic standing?,0,Other
+How is the university's athletic program?,1,Other
+What is the university's policy on academic suspension?,0,Other
+Are there any opportunities for student teaching?,1,Other
+What is the university's policy on academic credit?,0,Other
+How is the university's library?,1,Campus
+What is the university's policy on academic probation?,0,Other
+Are there any opportunities for research assistantships?,1,Internship
+What is the university's policy on academic dismissal?,0,Other
+How is the university's financial aid office?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for student government involvement?,1,Other
+What is the university's policy on academic freedom?,0,Other
+How is the university's career services office?,1,Other
+What is the university's policy on academic integrity?,0,Other
+Are there any opportunities for volunteer work?,1,Internship
+What is the university's policy on academic suspension?,0,Other
+How is the university's food service?,1,Other
+What is the university's policy on academic load?,0,Other
+Are there any opportunities for student research?,1,Other
+What is the university's policy on academic standing?,0,Other
+How is the university's campus security?,1,Campus
+What is the university's policy on academic credit?,0,Other
+Are there any opportunities for student leadership positions?,1,Other
+What is the university's policy on academic probation?,0,Other
+How is the university's transportation system?,1,Other
+What is the university's policy on academic dismissal?,0,Other
+Are there any opportunities for student clubs and organizations?,1,Other
+What is the university's policy on academic dishonesty?,0,Other
+How is the university's housing office?,1,Other
+What is the university's policy on academic load?,0,Other
+Who is the founder?,1,Other
+What are the admission requirements for international students?,1,Admission
+What is the cutoff for Computer Science Engineering?,1,Other
+What is the fee structure for a B.Tech program?,1,Curriculum
+Does the university offer scholarships for meritorious students?,1,Other
+What are the hostel facilities like?,1,Campus
+What is the faculty-to-student ratio?,1,Other
+Are there any industry tie-ups for internships?,1,Internship
+What is the average package offered during placements?,1,Internship
+What are the extracurricular activities available on campus?,1,Other
+Does the university have a good placement record?,1,Other
+What is the curriculum like for a particular course?,1,Curriculum
+Are there any specialized labs or research facilities?,1,Campus
+What is the student exchange program like?,1,Other
+Does the university have a good alumni network?,1,Other
+What are the accommodation options available for students?,1,Other
+What is the campus infrastructure like?,1,Campus
+Are there any sports facilities on campus?,1,Campus
+What is the quality of the library and its resources?,1,Campus
+What is the process for applying for a hostel room?,1,Admission
+What are the rules and regulations for hostel residents?,1,Campus
+What is the cost of mess food?,1,Other
+Are there any restrictions on timing for hostel students?,1,Campus
+What are the security measures in place for the hostel?,1,Campus
+Are there any guest rooms available for visitors?,1,Campus
+What is the process for applying for a scholarship?,1,Admission
+What are the eligibility criteria for scholarships?,1,Admission
+How many scholarships are awarded each year?,1,Other
+What is the value of the scholarships offered?,1,Other
+Are there any scholarships specifically for international students?,1,Other
+What are the different types of scholarships available?,1,Other
+What is the process for applying for financial aid?,1,Admission
+What are the eligibility criteria for financial aid?,1,Admission
+How much financial aid is available each year?,1,Other
+Are there any work-study programs available?,1,Campus
+What is the process for applying for a student loan?,1,Admission
+What are the eligibility criteria for a student loan?,1,Admission
+How much loan can a student avail?,1,Other
+What is the interest rate on student loans?,1,Other
+What is the repayment period for student loans?,1,Other
+What are the different departments in the university?,1,Other
+What are the qualifications of the faculty members?,1,Faculty
+What is the faculty-student ratio in different departments?,1,Other
+How accessible are the faculty members to students?,1,Campus
+Are there any guest lecturers or visiting professors?,1,Other
+What is the research output of the faculty members?,1,Faculty
+What are the different research centers in the university?,1,Other
+Are there any opportunities for students to participate in research projects?,1,Internship
+What is the process for applying for a research project?,1,Admission
+What are the funding opportunities available for research projects?,1,Internship
+What is the process for applying for an internship?,1,Admission
+What are the eligibility criteria for internships?,1,Internship
+How many internships are offered each year?,1,Internship
+What are the different types of internships available?,1,Internship
+Are there any international internship opportunities?,1,Internship
+What is the stipend provided for internships?,1,Internship
+What is the process for applying for a job through campus placements?,1,Admission
+What are the eligibility criteria for campus placements?,1,Campus
+How many companies participate in campus placements?,1,Internship
+What is the average package offered during campus placements?,1,Campus
+What are the top recruiters for the university?,1,Other
+What is the placement record of the university?,1,Other
+What is the process for applying for a postgraduate program?,1,Admission
+What are the eligibility criteria for postgraduate programs?,1,Admission
+What are the different postgraduate programs offered?,1,Internship
+What is the fee structure for postgraduate programs?,1,Admission
+Are there any scholarships available for postgraduate students?,1,Other
+What is the process for applying for a PhD program?,1,Admission
+What are the eligibility criteria for a PhD program?,1,Admission
+What are the different PhD programs offered?,1,Internship
+What is the funding available for PhD students?,1,Other
+What is the duration of a PhD program?,1,Internship
+What are the different student clubs and organizations?,1,Other
+What are the cultural events and festivals organized by the university?,1,Other
+Are there any sports teams and competitions organized by the university?,1,Other
+What are the facilities available for sports and fitness?,1,Campus
+Are there any social service initiatives organized by the university?,1,Other
+How is the student life on campus?,1,Campus
+What is the diversity of the student population?,1,Other
+Is there a strong sense of community among students?,1,Other
+Are there any mentorship programs for students?,1,Other
+What is the counseling and support services offered by the university?,1,Internship
+What is the process for applying for a student visa?,1,Admission
+What are the documents required for a student visa?,1,Other
+What is the cost of living in the city where the university is located?,1,Other
+What are the transportation options available for students?,1,Other
+What are the healthcare facilities available for students?,1,Campus
+What are the safety and security measures in place on campus?,1,Campus
+What is the process for grievance redressal?,1,Admission
+What are the rules and regulations for students?,1,Other
+What is the dress code for students?,1,Other
+What are the timings for classes and labs?,1,Other
+What is the attendance policy for students?,1,Other
+What is the examination system like?,1,Other
+What is the grading system used by the university?,1,Other
+What is the process for revaluation and re-examination?,1,Admission
+What are the rules for academic misconduct?,1,Other
+What is the process for withdrawing from a course?,1,Admission
+What is the process for transferring to another university?,1,Other
+What is the process for obtaining a degree certificate?,1,Admission
+What is the process for obtaining a transcript?,1,Admission
+What is the alumni association like?,1,Other
+How can alumni stay connected with the university?,1,Other
+What are the benefits of being an alumnus?,1,Other
+What are the future prospects for graduates of the university?,1,Other
